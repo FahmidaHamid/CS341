@@ -12,7 +12,8 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 http://lanyon.getpoole.com
 baseurl:             '/CS341'
 paginate:            5
-
+kramdown:
+    auto_ids: true
 # About/contact
 author:
   name:              Mark Otto
